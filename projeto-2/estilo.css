@@ -1,7 +1,13 @@
 body{
-    background-color: blue;
+    background-color: lightblue;
 
 }
 h1{
     text-align: center;
+color: darkblue;
+}
+p{
+    color: blue;
+    text-align: center;
+    text-align: justify;
 }
